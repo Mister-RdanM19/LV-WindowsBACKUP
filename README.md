@@ -25,6 +25,11 @@ Repositori ini berisi:
 
 ⚠️ Antivirus atau Windows Defender mungkin mem-block aplikasi jika tidak dikenali, karena ini adalah aplikasi custom tanpa tanda tangan digital resmi. Pastikan kamu mem-verifikasi keamanan sebelum menjalankannya.
 
+## VIEW APLICATIONZ
+
+<img src="https://raw.githubusercontent.com/Mister-RdanM19/LV-WindowsBACKUP/refs/heads/main/windowsbackup.jpg">
+
+
 ---
 
 ## 📌 Kontak
